@@ -1,4 +1,4 @@
-# my-compiler
+# my-c-compiler
 
 Geminiを相棒にして、RustでC言語の `Hello, World` が動くコンパイラを自作するプロジェクトです。
 
